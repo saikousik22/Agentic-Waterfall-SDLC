@@ -7,13 +7,12 @@ A modern, interactive Streamlit application that demonstrates a complete **Softw
 ## 📂 Folder Structure
 
 ```
-ai/
+Agentic-Waterfall-SDLC/
 │
 ├── main.py                # Main Streamlit app with multi-agent workflow
 ├── requirements.txt       # Python dependencies
 ├── pyproject.toml         # Project metadata and dependencies
-├── uv.lock                # Poetry/virtualenv lock file
-├── .python-version        # Python version file
+├── uv.lock                # Poetry/virtualenv lock file .python-version        # Python version file
 ├── README.md              # (You are here!)
 ├── .venv/                 # (Optional) Virtual environment
 └── __pycache__/           # Python cache
@@ -45,8 +44,8 @@ ai/
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repo-url>
-   cd ai
+   git clone https://github.com/saikousik22/Agentic-Waterfall-SDLC.git
+   cd Agentic-Waterfall-SDLC
    ```
 
 2. **Set up Python Environment (Recommended: [uv](https://github.com/astral-sh/uv))**
