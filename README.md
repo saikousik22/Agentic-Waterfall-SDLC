@@ -17,8 +17,6 @@ Agentic-Waterfall-SDLC/
 ├── .venv/                 # (Optional) Virtual environment
 └── __pycache__/           # Python cache
 ```
-*Other folders in the repo (e.g., RAG/, summarizer/) are not required for this app.*
-
 ---
 
 ## 🌟 Features
@@ -105,7 +103,7 @@ Each agent completes its task and communicates with the next agent, passing alon
 
 - **Author:** [Padarthi Sai Kousik]
 - **Contact:** [psaikousik@gmail.com]
-- **GitHub:** [your-github-profile-link]
+- **GitHub:** [https://github.com/saikousik22]
 
 **Contributions are welcome!**  
 Feel free to open issues or submit pull requests for improvements, new features, or bug fixes.
